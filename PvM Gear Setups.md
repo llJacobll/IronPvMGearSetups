@@ -10,7 +10,7 @@ Table of Contents
         1.3 Bandos
         1.4 Armadyl
 ##### 1. God Wars Dungeon
-    ##### 1.1 Zamorak
+###     1.1 Zamorak
 Spec Weapon:Dragon Warhammer > Arclight > Crystal Halberd/Dragon Dagger
 Cape:Infernal Cape > Fire Cape 
 Weapon: Arclight > Abyssal Tentacle
