@@ -1,5 +1,5 @@
-OldSchool Runescape
-Iron PvM Gear Setups
+#### OldSchool Runescape
+### Iron PvM Gear Setups
 [IronEmpireCC](https://discord.com/invite/ironempire)
 
 Table of Contents
