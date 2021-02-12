@@ -4,11 +4,11 @@
 
 ## Table of Contents
 1. [God Wars Dungeon](#god-wars-dungeon)
-2. [Zamorak](#zamorak)
-3. [Saradomin](#saradomin)
-4. [Bandos](#bandos)
-5. [Armadyl](#armadyl)
-6. [Slayer Bosses](#slayer-bosses)
+- [Zamorak](#zamorak)
+- [Saradomin](#saradomin)
+- [Bandos](#bandos)
+- [Armadyl](#armadyl)
+2. [Slayer Bosses](#slayer-bosses)
       
 #####  [God Wars Dungeon]
 #####  [Zamorak]
@@ -17,3 +17,5 @@
 #####  [Bandos]
 ![Bandos](https://i.imgur.com/13Ybpsi.png)
 #####  [Armadyl]
+
+#####  [Slayer Bosses]
