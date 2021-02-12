@@ -18,4 +18,3 @@
 #####  [Bandos]
 ![Bandos](https://i.imgur.com/13Ybpsi.png)
 #####  [Armadyl]
-
