@@ -3,13 +3,13 @@
 [IronEmpireCC](https://discord.com/invite/ironempire)
 
 ## Table of Contents
-1. God Wars Dungeon
-1.1[Zamorak](#zamorak)
-1.2[Saradomin](#saradomin)
-1.3[Bandos](#bandos)
-1.4[Armadyl](#armadyl)
-2. Slayer Bosses
-       
+1. [God Wars Dungeon](#god-wars-dungeon)
+2. [Zamorak](#zamorak)
+3. [Saradomin](#saradomin)
+4. [Bandos](#bandos)
+5. [Armadyl](#armadyl)
+6. [Slayer Bosses](#slayer-bosses)
+      
 #####  [God Wars Dungeon]
 #####  [Zamorak]
 ![Zamorak](https://i.imgur.com/KMdFBA3.png)
