@@ -4,11 +4,11 @@
 
 #### Table of Contents
 
-1. [God Wars Dungeon]
-######    [Zamorak](#zamorak)
-######    Saradomin
-######    Bandos
-######    Armadyl
+###### 1. [God Wars Dungeon]
+######    1.1 [Zamorak](#zamorak)
+######    1.2 Saradomin
+######    1.3 Bandos
+######    1.4 Armadyl
        
 #####  God Wars Dungeon
 #####         [Zamorak]
