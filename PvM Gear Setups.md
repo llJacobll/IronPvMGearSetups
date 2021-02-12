@@ -11,7 +11,7 @@
 ######    Armadyl
        
 #####  God Wars Dungeon
-#####         Zamorak
+#####         [Zamorak]
 Spec Weapon:Dragon Warhammer > Arclight > Crystal Halberd/Dragon Dagger
 Cape:Infernal Cape > Fire Cape 
 Weapon: Arclight > Abyssal Tentacle
