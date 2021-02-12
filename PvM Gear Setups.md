@@ -25,5 +25,5 @@ Table of Contents
         Staff: Kodai Wand > Staff of the Dead > Ancient Staff
         Arrow Slot: Unholy Blessing > Rada's Blessing
         Gloves: Ferocious Gloves > Barrows Gloves
-        ![Zamorak](https://imgur.com/a/XPfxIYD)
+        ![Zamorak](https://i.imgur.com/KMdFBA3.png)
 
