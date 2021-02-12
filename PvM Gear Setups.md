@@ -4,11 +4,12 @@
 
 Table of Contents
 
-    1. God Wars Dungeon
-        1.1 [Zamorak](#zamorak)
-        1.2 Saradomin
-        1.3 Bandos
-        1.4 Armadyl
+1. God Wars Dungeon
+######    1.1 [Zamorak](#zamorak)
+######    1.2 Saradomin
+######    1.3 Bandos
+######    1.4 Armadyl
+       
 ##### 1. God Wars Dungeon
 #####     1.1 [Zamorak]
 Spec Weapon:Dragon Warhammer > Arclight > Crystal Halberd/Dragon Dagger
