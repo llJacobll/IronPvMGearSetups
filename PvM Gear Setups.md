@@ -12,7 +12,7 @@ Table of Contents
 
 1. God Wars Dungeon
     1.1 Zamorak
-        Spec Weapon : Dragon Warhammer > Arclight > Crystal Halberd/    Dragon Dagger
+        Spec Weapon: Dragon Warhammer > Arclight > Crystal Halberd/    Dragon Dagger
         Cape: Infernal Cape  > Fire Cape 
         Weapon: Arclight > Abyssal Tentacle
         Helmet: Slayer Helmet > Helm of Neitiznot/Serp Helm (If you bring Serp helm you don't need Antipoison!)
