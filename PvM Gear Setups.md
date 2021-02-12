@@ -4,7 +4,7 @@
 
 #### Table of Contents
 
-###### 1. [God Wars Dungeon](#god-wars-dungeon)
+###### 1. God Wars Dungeon
 ######    1.1 [Zamorak](#zamorak)
 ######    1.2 [Saradomin](#saradomin)
 ######    1.3 [Bandos](#bandos)
