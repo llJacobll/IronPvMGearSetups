@@ -8,6 +8,7 @@
       - [Saradomin](#saradomin)
       - [Bandos](#bandos)
       - [Armadyl](#armadyl)
+      
 2. [Slayer Bosses](#slayer-bosses)
       
 #####  [God Wars Dungeon]
