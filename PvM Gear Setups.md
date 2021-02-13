@@ -2,7 +2,7 @@
 #### Iron PvM Gear Setups
 [IronEmpireCC](https://discord.com/invite/ironempire)
 
-## Table of Contents
+## [Table of Contents]
 1. [God Wars Dungeon]
       - [Zamorak](#zamorak)
       - [Saradomin](#saradomin)
