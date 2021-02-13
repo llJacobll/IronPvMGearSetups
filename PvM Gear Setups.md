@@ -3,18 +3,18 @@
 [IronEmpireCC](https://discord.com/invite/ironempire)
 
 ## Table of Contents
-**1. [God Wars Dungeon]**
+1. [God Wars Dungeon]
       - [Zamorak](#zamorak)
       - [Saradomin](#saradomin)
       - [Bandos](#bandos)
       - [Armadyl](#armadyl)
-**2. [Slayer Bosses]**
+2. [Slayer Bosses]
       - [Abyssal Sire](#abyssal-sire)
       - [Alchemical Hydra](#alchemical-hydra)
       - [Cerberus](#cerberus)
       - [Kraken](#kraken)
       - [Thermonuclear Smoke Devil](#thermonuclear-smoke-devil)
-**3. [Wilderness Bosses]**
+3. [Wilderness Bosses]
       - [Callisto](#callisto)
       
 #####  [God Wars Dungeon]
