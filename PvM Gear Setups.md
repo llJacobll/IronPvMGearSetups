@@ -8,8 +8,14 @@
       - [Saradomin](#saradomin)
       - [Bandos](#bandos)
       - [Armadyl](#armadyl)
-      
 2. [Slayer Bosses](#slayer-bosses)
+      - [Abyssal Sire](#abyssal-sire)
+      - [Alchemical Hydra](#alchemical-hydra)
+      - [Cerberus](#cerberus)
+      - [Kraken](#kraken)
+      - [Thermonuclear Smoke Devil](#thermonuclear-smoke-devil)
+3. [Wilderness Bosses](#wilderness-bosses)
+      - [Callisto](#callisto)
       
 #####  [God Wars Dungeon]
 #####  [Zamorak]
