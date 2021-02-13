@@ -17,8 +17,8 @@
 3. [Wilderness Bosses]
       - [Callisto](#callisto)
       
-#####  [God Wars Dungeon]
-#####  [Zamorak]
+###  [God Wars Dungeon]
+####  [Zamorak]
 ![Zamorak](https://i.imgur.com/KMdFBA3.png)
 >**Armour**
 >>- ***Spec Weapon:*** Dragon Warhammer > Arclight > Crystal Halberd/Dragon Dagger
