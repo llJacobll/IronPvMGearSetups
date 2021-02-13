@@ -15,6 +15,7 @@
 #####  [Zamorak]
 ![Zamorak](https://i.imgur.com/KMdFBA3.png)
 #####  [Saradomin]
+![Saradomin](https://i.imgur.com/icDjzR7.png)
 #####  [Bandos]
 ![Bandos](https://i.imgur.com/13Ybpsi.png)
 #####  [Armadyl]
