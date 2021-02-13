@@ -29,10 +29,10 @@
 >>- ***Amulet:***  Amulet of Blood Fury > Amulet of Torture > Amulet of Fury > Amulet of Glory
 >>- ***Legs:*** Karil's Leatherskirt > Void robe > Blessed d'hide Chaps > d'hide Chaps/Verac's Skirt
 >>- ***Boots:*** Primordial Boots > Dragon Boots
->>- ***Shield:*** Dragon Defender > Crystal Shield (Prioritize DPS)
+>>- ***Shield:*** Avernic defender > Dragon Defender > Crystal Shield (Prioritize DPS)
 >>- ***Ring:*** Ring of Suffering = Berserker Ring (i)
 >>- ***Staff:*** Kodai Wand > Staff of the Dead > Ancient Staff
->>- ***Arrow Slot:*** Unholy Blessing > Rada's Blessing
+>>- ***Arrow Slot:*** Unholy Blessing = Rada's Blessing
 >>- ***Gloves:*** Ferocious Gloves > Barrows Gloves
 
 >**Inventory**
