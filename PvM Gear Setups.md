@@ -93,3 +93,6 @@
 #####  [Armadyl]
 
 #####  [Slayer Bosses]
+#####  [Wilderness Bosses]
+#####  [Callisto]
+![Callisto](https://i.imgur.com/h1ecF10.png)
