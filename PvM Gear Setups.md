@@ -91,7 +91,7 @@
 >>- ***Spellbook:*** Lunars (To cast Vengeance when Bandos hits you with his range attack) (Not Required but helpful)
 >>- ***Rune Pouch:*** Earth Runes / Astral Runes / Death Runes
 #####  [Armadyl]
-![Armadyl](https://imgur.com/e7ec91e1-761f-4e77-9de0-dda9d060993f)
+![Armadyl](https://i.imgur.com/jg2hgxG.png)
 >**Armour**
 >>- ***Spec Weapon:*** Toxic Blowpipe
 >>- ***Cape:*** Ava's Assembler > Ranged Cape > Ava's Accumulator
