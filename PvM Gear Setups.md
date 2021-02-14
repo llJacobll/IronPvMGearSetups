@@ -72,6 +72,29 @@
 >>- ***Rune Pouch:*** Nature Runes / Earth Runes / Water Runes
 #####  [Bandos]
 ![Bandos](https://i.imgur.com/13Ybpsi.png)
+>**Armour**
+>>- ***Spec Weapon:*** Dragon Warhammer / Bandos Godsword
+>>- ***Cape:*** Infernal Cape  > Fire Cape 
+>>- ***Weapon:*** Blade of Saeldor (c) > Abyssal Tentacle > Zamorakian Hasta > Abyssal Whip
+>>- ***Helmet:*** Justiciar Faceguard > Serpentine Helmet / Neitiznot Faceguard > Guthan's Helm / Verac's Helm > Helm of Neitiznot
+>>- ***Body:*** Justiciar Chestguard > Karil's Leathertop > Blessed d'hide Body > Guthan<s Platebody/Dharok's Platebody
+>>- ***Amulet:***  Amulet of Blood Fury > Amulet of Fury / Amulet of Torture > Amulet of Glory
+>>- ***Legs:*** Justiciar Legguards > Bandos Tassets > Verac's Plateskirt > Guthan's Chainskirt / Dharok's Platelegs
+>>- ***Boots:*** Guardian Boots > Primordial Boots > Dragon Boots > Bandos Boots
+>>- ***Shield:*** Elysian Spirit Shield > Dragonfire Shield > Crystal Shield
+>>- ***Ring:*** Ring of Suffering > Berserker Ring (i)
+>>- ***Arrow Slot:*** War Blessing / Unholy Blessing / Rada's Blessing
+>>- ***Gloves:*** Ferocious Gloves > Barrows Gloves
+
+>**Inventory**
+>>- ***Inventory:*** As shown (Prioritize combo food with Karambwans) (Anglerfish can also be used)
+>>- ***Required items:*** Bandos & Zamorakian items, Hammer (Dragon Warhammer can be used) Trollheim Teleport, Bones to Peaches Tabs
+>>- ***Required Stats:*** 70 Strength
+>>- ***Recommended Minimum Stats:*** 85 Attack, 85 Defence
+
+>**Rune Pouch**
+>>- ***Spellbook:*** Lunars (To cast Vengeance when Bandos hits you with his range attack) (Not Required but helpful)
+>>- ***Rune Pouch:*** Earth Runes / Astral Runes / Death Runes
 #####  [Armadyl]
 
 #####  [Slayer Bosses]
