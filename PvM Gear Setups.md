@@ -25,7 +25,7 @@
 >>- ***Legs:*** Karil's Leatherskirt > Void robe > Blessed d'hide Chaps > d'hide Chaps/Verac's Skirt
 >>- ***Boots:*** Primordial Boots > Dragon Boots
 >>- ***Shield:*** Avernic defender > Dragon Defender > Crystal Shield (Prioritize DPS)
->>- ***Ring:*** Ring of Suffering = Berserker Ring (i)
+>>- ***Ring:*** Ring of Suffering (i) = Berserker Ring (i)
 >>- ***Staff:*** Kodai Wand > Staff of the Dead > Ancient Staff
 >>- ***Arrow Slot:*** Unholy Blessing = Rada's Blessing
 >>- ***Gloves:*** Ferocious Gloves > Barrows Gloves
@@ -51,7 +51,7 @@
 >>- ***Legs:*** Armadyl Chainskirt > Verac's Plateskirt > Blessed d'hide Chaps > Black d'hide Chaps
 >>- ***Boots:*** Pegasian Boots/Ranger Boots > Blessed d'hide boots
 >>- ***Shield:*** Crystal Shield
->>- ***Ring:*** Ring of Suffering = Ring of Endurance > Archer's Ring
+>>- ***Ring:*** Ring of Suffering (i) = Ring of Endurance > Archer's Ring
 >>- ***Arrow Slot:*** Diamond Dragon Bolts (e) > Diamond Bolts (e)
 >>- ***Gloves:*** Barrows Gloves
 
@@ -77,7 +77,7 @@
 >>- ***Legs:*** Justiciar Legguards > Bandos Tassets > Verac's Plateskirt > Guthan's Chainskirt / Dharok's Platelegs
 >>- ***Boots:*** Guardian Boots > Primordial Boots > Dragon Boots > Bandos Boots
 >>- ***Shield:*** Elysian Spirit Shield > Dragonfire Shield > Crystal Shield
->>- ***Ring:*** Ring of Suffering > Berserker Ring (i)
+>>- ***Ring:*** Ring of Suffering (i) > Berserker Ring (i)
 >>- ***Arrow Slot:*** War Blessing / Unholy Blessing / Rada's Blessing
 >>- ***Gloves:*** Ferocious Gloves > Barrows Gloves
 
@@ -91,7 +91,32 @@
 >>- ***Spellbook:*** Lunars (To cast Vengeance when Bandos hits you with his range attack) (Not Required but helpful)
 >>- ***Rune Pouch:*** Earth Runes / Astral Runes / Death Runes
 #####  [Armadyl]
+![Armadyl](https://imgur.com/e7ec91e1-761f-4e77-9de0-dda9d060993f)
+>**Armour**
+>>- ***Spec Weapon:*** Toxic Blowpipe
+>>- ***Cape:*** Ava's Assembler > Ranged Cape > Ava's Accumulator
+>>- ***Main Weapon:*** Black Chincompa > Red Chinchompa (Not required, but this is the best method for Armadyl)
+>>- ***Weapon:*** Twisted Bow > Armadyl Crossbow > Dragon Hunter Crossbow > Dragon Crossbow > Rune Crossbow
+>>- ***Helmet:*** Slayer Helmet > Armadyl Helmet > Verac's Helm > Blessed d'hide coif
+>>- ***Body:*** Armadyl Platebody > Blessed d'hide body > Black d'hide body
+>>- ***Amulet:***  Necklace of Anguish > Amulet of Fury > Amulet of Glory
+>>- ***Legs:*** Armadyl Chainskirt > Verac's Plateskirt > Blessed d'hide Chaps > Black d'hide Chaps
+>>- ***Boots:*** Pegasian Boots/Ranger Boots > Blessed d'hide boots
+>>- ***Shield:*** Elsyian Spirit Shield > Crystal Shield
+>>- ***Ring:*** Ring of Suffering (i) > Archer's Ring (i) > Ring of the Gods (i)
+>>- ***Arrow Slot:*** Diamond Dragon Bolts (e) > Diamond Bolts (e)
+>>- ***Gloves:*** Barrows Gloves
 
+>**Inventory**
+>>- ***Inventory:*** As shown
+>>- ***Required items:*** Armadyl & Zamorakian Items, Trollheim Teleports, Bones to Peaches, Mithril Grapple
+>>- ***Required Stats:*** 70 Ranged
+>>- ***Recommended Minimum Stats:*** 90 Ranged, 85 Defence
+>>- ***Other:*** Ecumenical keys are very helpful at Armadyl. Replace a piece of food or Saradomin Brew with a ecumenical key.
+
+>**Rune Pouch**
+>>- ***Spellbook:*** Ancients (To cast Blood Spells on minions to heal to full health)
+>>- ***Rune Pouch:*** Blood Runes / Death Runes / Soul Runes (Or Chaos Runes if Blood Bursting)
 #####  [Slayer Bosses]
 #####  [Wilderness Bosses]
 #####  [Callisto]
