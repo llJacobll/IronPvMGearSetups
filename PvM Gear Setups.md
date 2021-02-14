@@ -9,11 +9,6 @@
       - [Bandos](#bandos)
       - [Armadyl](#armadyl)
 2. [Slayer Bosses]
-      - [Abyssal Sire](#abyssal-sire)
-      - [Alchemical Hydra](#alchemical-hydra)
-      - [Cerberus](#cerberus)
-      - [Kraken](#kraken)
-      - [Thermonuclear Smoke Devil](#thermonuclear-smoke-devil)
 3. [Wilderness Bosses]
       - [Callisto](#callisto)
       
