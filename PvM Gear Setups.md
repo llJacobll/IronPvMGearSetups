@@ -115,4 +115,4 @@
 >>- ***Recommended Minimum Stats:*** 75 Attack & Strength
 >>- ***Recommeneded Gear:*** Verac's Full Set or Viggora's Chainmace (with prayer gear)
 >>- ***Spellbook:*** Regular or Ancients (For Annakarl Teleport)
->>- ***Other*** Do not forget to protect item when using Verac's set in the wilderness
+>>- ***Other*** Do not forget to protect item when using Verac's set in the wilderness. Bring a teleport out & looting bag.
