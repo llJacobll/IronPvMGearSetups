@@ -96,3 +96,23 @@
 #####  [Wilderness Bosses]
 #####  [Callisto]
 ![Callisto](https://i.imgur.com/h1ecF10.png)
+>>- ***Spec Weapon:*** Magic Longbow (Spec weapon is guaranteed to hit for when Callisto is low HP)
+>>- ***Cape:*** Mythical Cape >= Ardougne Cloak
+>>- ***Weapon:*** Verac's Flail
+>>- ***Helmet:*** Verac's Helm
+>>- ***Body:*** Verac's Brassard
+>>- ***Amulet:***  Amulet of Glory > Amulet of Power
+>>- ***Legs:*** Verac's Skirt
+>>- ***Boots:*** Climbing boots = Rune boots
+>>- ***Ring:*** Ring of dueling
+>>- ***Arrow Slot:*** Arrows (To aggro Callisto with Magic Longbow)
+>>- ***Gloves:*** Barrows Gloves > Rune Gloves
+
+>**Inventory**
+>>- ***Inventory:*** As shown (Subject to alteration depending on preferences)
+>>- ***Required items:*** None
+>>- ***Required Stats:*** None
+>>- ***Recommended Minimum Stats:*** 75 Attack & Strength
+>>- ***Recommeneded Gear:*** Verac's Full Set or Viggora's Chainmace (with prayer gear)
+>>- ***Spellbook:*** Regular or Ancients (For Annakarl Teleport)
+>>- ***Other*** Do not forget to protect item when using Verac's set in the wilderness
