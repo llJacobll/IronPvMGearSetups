@@ -22,7 +22,7 @@
 >>- ***Helmet:*** Slayer Helmet > Helm of Neitiznot/Serp Helm (If you bring Serp helm you don't need Antipoison!)
 >>- ***Body:*** Karil's Leathertop > Blessed d'hide body > Black d'hide body
 >>- ***Amulet:***  Amulet of Blood Fury > Amulet of Torture > Amulet of Fury > Amulet of Glory
->>- ***Legs:*** Karil's Leatherskirt > Void robe > Blessed d'hide Chaps > d'hide Chaps/Verac's Skirt
+>>- ***Legs:*** Karil's Leatherskirt > Void robe > Blessed d'hide Chaps > Black d'hide Chaps/Verac's Skirt
 >>- ***Boots:*** Primordial Boots > Dragon Boots
 >>- ***Shield:*** Avernic defender > Dragon Defender > Crystal Shield (Prioritize DPS)
 >>- ***Ring:*** Ring of Suffering (i) = Berserker Ring (i)
